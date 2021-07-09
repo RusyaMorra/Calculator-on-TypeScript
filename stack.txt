@@ -1,0 +1,9 @@
+bootstrap 
+js
+css
+html
+typesctipt
+тестирование 
+wordpress
+js модули
+debagging
